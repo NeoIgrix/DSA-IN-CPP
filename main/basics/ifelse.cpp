@@ -4,10 +4,11 @@ using namespace std;
 int main() {
     int age ;
     cin >> age ;
-    if (age <=18)
+    if (age >=18)
     {
-        /* code */
-    }
+    cout << "adult";
+    }else
+    cout << "nota an adult";
        
     return 0;
 }
