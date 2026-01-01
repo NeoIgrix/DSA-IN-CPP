@@ -8,7 +8,7 @@ int main() {
     {
     cout << "adult";
     }else
-    cout << "nota an adult";
+    cout << "not an adult";
        
     return 0;
 }
